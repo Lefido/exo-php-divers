@@ -60,7 +60,7 @@
             <img class="img-pad" src="https://www.pngkey.com/png/full/258-2582687_symfony-php-mvc.png" width="70px" height="70px" alt="image du jeu">
             MVC - Mise en place - En cours</a>
 
-        <a href="mvc-openclassrooms/blog/index.php" class="img-title" target="_blank">
+        <a href="mvc-openclassrooms/blog/index_old.php" class="img-title" target="_blank">
             <img class="img-pad" src="https://asset.brandfetch.io/idJwzDlMke/id_MY71h6u.jpeg" width="70px" height="70px" alt="image du jeu">
             MVC - Blog - Open Class Rooms</a>
 
