@@ -1,3 +1,4 @@
+
 h1, h3
 {
     text-align:center;
@@ -8,11 +9,13 @@ h3
     color:white;
     font-size:0.9em;
     margin-bottom:0px;
+    padding: 5px;
 }
 .news p
 {
     background-color:#CCCCCC;
     margin-top:0px;
+    padding: 5px;
 }
 .news
 {

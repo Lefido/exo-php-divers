@@ -57,7 +57,7 @@ body a:hover {
   width: 100%;
   margin-bottom: 10px;
   background: rgb(194, 194, 194);
-  background: radial-gradient(circle, rgba(194, 194, 194, 0.5746673669) 0%, rgb(79, 79, 79) 100%);
+  background: radial-gradient(circle, rgba(194, 194, 194, 0.5746673669) 0%, rgba(79, 79, 79, 0.5) 100%);
   padding: 5px 10px;
   border-radius: 0 15px 0 15px;
   text-transform: uppercase;
