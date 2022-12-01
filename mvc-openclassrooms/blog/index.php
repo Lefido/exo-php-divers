@@ -5,9 +5,12 @@ require_once($_SERVER['DOCUMENT_ROOT'] . '/mvc-openclassrooms/blog/src/controlle
 require_once($_SERVER['DOCUMENT_ROOT'] . '/mvc-openclassrooms/blog/src/controllers/post.php');
 
 
+
 if (isset($_GET['action']) && $_GET['action'] !== '') {
 
+
     if ($_GET['action'] === 'post') {
+
         if (isset($_GET['id']) && $_GET['id'] > 0) {
             $identifier = $_GET['id'];
 
@@ -15,7 +18,6 @@ if (isset($_GET['action']) && $_GET['action'] !== '') {
 
         } else {
             echo 'Erreur : aucun identifiant de billet envoyé';
-
             die;
         }
     } else {

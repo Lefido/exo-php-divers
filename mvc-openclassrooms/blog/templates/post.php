@@ -31,6 +31,8 @@ foreach ($comments as $comment) {
     <p><?= nl2br(htmlspecialchars($comment['comment'])) ?></p>
     <?php
 }
+
 ?>
+
 </body>
 </html>

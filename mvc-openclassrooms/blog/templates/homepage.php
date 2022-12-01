@@ -5,6 +5,8 @@
     <p>Derniers billets du blog :</p>
 
 <?php
+
+
 foreach ($posts as $post) {
     ?>
     <div class="news">

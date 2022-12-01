@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5137fa63-ab6e-43f6-b1e0-290916d74590" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/mvc-openclassrooms/blog/post.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvc-openclassrooms/blog/src/controllers/homepage.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvc-openclassrooms/blog/src/controllers/post.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvc-openclassrooms/blog/templates/layout.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvc-openclassrooms/blog/templates/post.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvc/app/app.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvc/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jeu-de-combat" beforeDir="false" afterPath="$PROJECT_DIR$/jeu-de-combat" afterDir="false" />
@@ -16,14 +10,9 @@
       <change beforePath="$PROJECT_DIR$/jeu-de-combat/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/jeu-de-combat/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jeu-de-combat/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/jeu-de-combat/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mvc-openclassrooms/blog/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/mvc-openclassrooms/blog/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvc-openclassrooms/blog/index_old.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvc-openclassrooms/blog/src/model.php" beforeDir="false" afterPath="$PROJECT_DIR$/mvc-openclassrooms/blog/src/model.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvc-openclassrooms/blog/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/mvc-openclassrooms/blog/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvc-openclassrooms/blog/src/controllers/post.php" beforeDir="false" afterPath="$PROJECT_DIR$/mvc-openclassrooms/blog/src/controllers/post.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mvc-openclassrooms/blog/templates/homepage.php" beforeDir="false" afterPath="$PROJECT_DIR$/mvc-openclassrooms/blog/templates/homepage.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvc/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/mvc/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvc-openclassrooms/blog/templates/post.php" beforeDir="false" afterPath="$PROJECT_DIR$/mvc-openclassrooms/blog/templates/post.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +97,7 @@
       <workItem from="1669715558829" duration="10725000" />
       <workItem from="1669802050139" duration="14920000" />
       <workItem from="1669881888168" duration="3613000" />
-      <workItem from="1669889342985" duration="149000" />
+      <workItem from="1669889342985" duration="3867000" />
     </task>
     <servers />
   </component>
