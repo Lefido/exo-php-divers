@@ -1,4 +1,5 @@
 <?php
+
 namespace App;
 
 spl_autoload_register(function ($class) {
