@@ -13,7 +13,7 @@ Des points importants :
 
 Evidemment, les noms des dossiers changeront suivants les projets, les frameworks et la structure que l'on voudra adopter.
 
-Résumé visuel : 
+>Résumé visuel : 
 
 ![https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Mod%C3%A8le-vue-contr%C3%B4leur_%28MVC%29_-_fr.png/370px-Mod%C3%A8le-vue-contr%C3%B4leur_%28MVC%29_-_fr.png](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Mod%C3%A8le-vue-contr%C3%B4leur_%28MVC%29_-_fr.png/370px-Mod%C3%A8le-vue-contr%C3%B4leur_%28MVC%29_-_fr.png)
 
