@@ -4,8 +4,6 @@
 require_once($_SERVER['DOCUMENT_ROOT'] . '/mvc-openclassrooms/blog/src/controllers/homepage.php');
 require_once($_SERVER['DOCUMENT_ROOT'] . '/mvc-openclassrooms/blog/src/controllers/post.php');
 
-
-
 if (isset($_GET['action']) && $_GET['action'] !== '') {
 
 

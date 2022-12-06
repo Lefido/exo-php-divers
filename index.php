@@ -13,6 +13,16 @@
 <div class="box-exercices">
 
 
+    <div class="exercice">
+
+        <h2>Entrainement divers</h2>
+
+        <a href="entrainement/index.php" class="img-title">
+            <img class="img-pad" src="https://cdn-icons-png.flaticon.com/512/6381/6381797.png" width="70px" height="70px" alt="image cahier des charge">
+            Echange de variables entre fichiers PHP</a>
+
+
+    </div>
 
     <div class="exercice">
 

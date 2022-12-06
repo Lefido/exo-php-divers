@@ -2,11 +2,17 @@
 
 namespace App;
 
+
 spl_autoload_register(function ($class) {
+
     $class = str_replace(__NAMESPACE__ . '\\', '', $class);
+
     $class = str_replace('\\', '/', $class);
+
     require __DIR__ . '/' . $class . '.php';
+
 });
+
 ?>
 
 <!DOCTYPE html>
@@ -29,6 +35,7 @@ use App\Views\Single;
 /**
  * Cette page fait office de controller pour la démo, mais dans un projet réel, le controller serait dans une classe séparée avec son namespace. Il y aurait alors sur cette page un router qui redirigerait sur l'URL voulue.
  */
+
 
 Database::$host = "localhost";
 Database::$user = "root";

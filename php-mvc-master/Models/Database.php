@@ -7,6 +7,7 @@ use \PDOStatement;
 
 class Database
 {
+
     public static string $host;
     public static string $user;
     public static string $pass;
@@ -18,6 +19,8 @@ class Database
      * Connexion à la base de données à l'aide de PDO
      * @return PDO|PDOException
      */
+
+
     public static function connect (): PDO|PDOException
     {
         try
@@ -55,6 +58,7 @@ class Database
         self::$request = self::connect()->prepare($query);
         self::$request->execute($array);
         return self::$request;
+
     }
 
     /**
@@ -65,4 +69,27 @@ class Database
     {
         return self::$request->fetchAll(PDO::FETCH_ASSOC);
     }
+
+    public static function getCategory($post_id){
+
+        self::prepReq("SELECT * FROM category where id = :id", ["id" => $post_id]);
+        $allPost = self::fetchData();
+
+    }
+
+    public static function getAllPostFromCategory($cat_id) {
+
+        self::prepReq("SELECT * FROM post where id_category = :id", ["id" => $cat_id]);
+        $allPost = self::fetchData();
+
+    }
+
+    public static function getAllCategories() {
+
+        self::prepReq("SELECT * FROM category ORDER BY  nom");
+        $allCategory = self::fetchData();
+
+    }
+
+
 }
