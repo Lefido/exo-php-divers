@@ -15,9 +15,9 @@
 
     <div class="exercice">
 
-        <h2>Entrainement divers</h2>
+        <h2>PHP Entrainement divers</h2>
 
-        <a href="entrainement/index.php" class="img-title">
+        <a href="entrainement/index.php" class="img-title" target="_blank">
             <img class="img-pad" src="https://cdn-icons-png.flaticon.com/512/6381/6381797.png" width="70px" height="70px" alt="image cahier des charge">
             Echange de variables entre fichiers PHP</a>
 
@@ -28,11 +28,11 @@
 
         <h2>Connexion BDD - PHP Création utilisateur </h2>
 
-        <a href="user_connexion/new_utilisateur.php" class="img-title">
+        <a href="user_connexion/new_utilisateur.php" class="img-title" target="_blank">
             <img class="img-pad" src="https://cdn.pixabay.com/photo/2016/04/15/18/05/computer-1331579_960_720.png" width="70px" height="70px" alt="image cahier des charge">
             Création d'un nouvel utilisateur</a>
 
-        <a href="user_connexion/connexion_utilisateur.php" class="img-title">
+        <a href="user_connexion/connexion_utilisateur.php" class="img-title" target="_blank">
             <img class="img-pad" src="https://cdn-icons-png.flaticon.com/512/4305/4305692.png" width="70px" height="70px" alt="image cahier des charge">
             Connexion et contrôle utilisateur</a>
 
@@ -68,7 +68,7 @@
 
         <a href="mvc/index.php" class="img-title" target="_blank">
             <img class="img-pad" src="https://www.pngkey.com/png/full/258-2582687_symfony-php-mvc.png" width="70px" height="70px" alt="image du jeu">
-            MVC - Mise en place - En cours</a>
+            MVC - Mise en place</a>
 
         <a href="mvc-openclassrooms/blog/index.php" class="img-title" target="_blank">
             <img class="img-pad" src="https://asset.brandfetch.io/idJwzDlMke/id_MY71h6u.jpeg" width="70px" height="70px" alt="image du jeu">
@@ -76,7 +76,11 @@
 
         <a href="php-mvc-master/index.php" class="img-title" target="_blank">
             <img class="img-pad" src="https://avatars.githubusercontent.com/u/24383849?v=4" width="70px" height="70px" alt="image du jeu">
-            MVC - PHP - VMC - MASTER</a>
+            MVC - PHP - Master - Clément</a>
+
+        <a href="php-mvc-solution-master/index.php" class="img-title" target="_blank">
+            <img class="img-pad" src="https://avatars.githubusercontent.com/u/24383849?v=4" width="70px" height="70px" alt="image du jeu">
+            MVC - Master - Solution - Clément</a>
 
 
     </div>

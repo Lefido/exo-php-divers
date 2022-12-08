@@ -1,4 +1,8 @@
 <?php
 
 include "head.php";
-include "liste_objets.php";
+include "navbar.php";
+include "header.php";
+include "footer.php";
+
+

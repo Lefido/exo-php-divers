@@ -23,6 +23,7 @@ spl_autoload_register(function ($class) {
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Mon blog</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
@@ -33,9 +34,9 @@ use App\Models\Post;
 use App\Views\Single;
 
 /**
- * Cette page fait office de controller pour la démo, mais dans un projet réel, le controller serait dans une classe séparée avec son namespace. Il y aurait alors sur cette page un router qui redirigerait sur l'URL voulue.
+ * Cette page fait office de controller pour la démo, mais dans un projet réel, le controller serait dans une classe
+ * séparée avec son namespace. Il y aurait alors sur cette page un routeur qui redirigerait sur l'URL voulue.
  */
-
 
 Database::$host = "localhost";
 Database::$user = "root";
@@ -45,6 +46,7 @@ Database::$dbName = "blog";
 Database::connect();
 
 // Router
+
 if (isset($_GET["post_id"]))
 {
     $id = $_GET["post_id"];
